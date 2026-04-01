@@ -54,5 +54,13 @@ My work has been published in top-tier venues including NeurIPS, ICML, ICLR, and
 
 * **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/avsec/)
 
+
+
+### Note
+My previous GitHub account [Github Profile](https://github.com/Avsecz) is no longer actively maintained. This is my new and currently active GitHub profile where I will be sharing my latest work, experiments, and research projects.
 ---
 "Advancing machine intelligence through generative modeling and representation learning."
+
+
+
+
